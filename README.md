@@ -174,8 +174,3 @@ Movies-Shows-Analysis/
 ## 👨‍💻 Author
 
 - **Jalaj Patel** - [GitHub](https://github.com/JALAJ-PATEL)
-
-## 🙏 Acknowledgements
-
-- Data sourced from Netflix, Disney+, and Amazon Prime catalogs
-- Inspired by the growing importance of content analytics in the streaming era
